@@ -2,13 +2,11 @@
 
 
 
-Credit_bookshelf = [("Chase", "110322", "713", "VantageScore3.0", "850"),
-                    ("WellsFargo", "112122", "709", "FICO9 -Experian", "850"),
-                    ("Bank of America", "112122", "728", "FICO -Transunion", "850"),
-                    ("Discover", "111922", "728", "FICO -Transunion", "850"),
-                    ("NFCU", "110322", "702", "FICO9 -Equifax", "850"),
-                    ("NFCU", "110422", "716", "VantageScore3.0", "850"),
-                    ("Citi", "112222", "748", "FICO8 -Equifax", "900")]
+Credit_bookshelf = [("Chase", "112322", "793", "VantageScore3.0", "850"),
+                    ("WellsFargo", "112722", "799", "FICO9 -Experian", "850"),
+                    ("Bank of America", "112122", "798", "FICO -Transunion", "850"),
+                    ("Discover", "111922", "798", "FICO -Transunion", "850"),
+                    ("Citi", "112222", "798", "FICO8 -Equifax", "900")]
 
 
 class Score:
